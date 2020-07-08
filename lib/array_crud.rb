@@ -31,7 +31,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  array[4]
+  array[2]
   
 end
 
@@ -43,6 +43,6 @@ end
 
 def retrieve_last_element_from_array(array)
   
-  array[3]
+  array[5]
   
 end
